@@ -1,0 +1,23 @@
+.search-field {
+  background-color: #202b3b;
+  color: #f0f0f2;
+}
+.container {
+  background-color: #0c131e;
+}
+h1,
+h2,
+h3,
+p {
+  color: #f0f0f2;
+}
+.forecast {
+  background-color: #202b3b;
+}
+a {
+  text-decoration: none;
+}
+button {
+  margin: 30px;
+  background-color: lightskyblue;
+}
